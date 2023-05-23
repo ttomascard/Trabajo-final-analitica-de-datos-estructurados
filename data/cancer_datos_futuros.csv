@@ -1,0 +1,4 @@
+﻿radius_mean;texture_mean;smoothness_mean;compactness_mean;symmetry_mean;fractal_dimension_mean;radius_se;smoothness_se;compactness_se;concave points_se;symmetry_worst
+20.59;14.34;0.10030;0.13280;0.1809;0.05883;0.7572;0.011490;0.02461;0.01885;0.2364
+17.99;10.38;0.11840;0.27760;0.2419;0.07871;10.950;0.006399;0.04904;0.01587;0.4601
+7.76;24.54;0.05263;0.04362;0.1587;0.05884;0.3857;0.007189;0.00466;0.00000;0.2871
