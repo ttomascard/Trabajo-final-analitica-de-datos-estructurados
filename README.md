@@ -13,4 +13,4 @@ La enfermedad del cáncer en los últimos tiempos es una de las mayores causas d
 ### ●	Investigar cuales son las características con mayor relevancia en los pacientes que presentan un tumor cancerígeno.
 
 ## DATOS
-(https://www.projectpro.io/recipes/drop-out-highly-correlated-features-in-python) 
+https://www.kaggle.com/datasets/erdemtaha/cancer-data/code?resource=download
